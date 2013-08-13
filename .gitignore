@@ -21,4 +21,4 @@ doc/
 *.swp
 *~
 .secret
-database.yml
+example_user.rb
